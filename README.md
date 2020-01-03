@@ -1,5 +1,5 @@
 # How to add a responsive html signature to your email?    
-Copy the html to your local editor, change the content/styles.    
+Copy/download signature.html to your local editor, change the content/styles.    
 Run the html + click any place in the browser   
 Ctrl + A to select all the content in the <u>browser</u> (It should be highlighted if you select it)       
 Ctrl + C to copy the signature from the browser   
