@@ -1,5 +1,5 @@
 # Html-signature  
-Copy the html to your local editor, change the information.    
+Copy the html to your local editor, change the content/styles.    
 Run the html  
 Ctrl + A to select all  
 Ctrl + C to copy the signature from the browser   
