@@ -7,4 +7,4 @@ Go to Gmail > setting > General > Signature
 Ctrl + V  to paste your signature into the text box   
 Test..   
   
-Note: images won't automatically download to outlook.    
+Note: Images won't automatically download to outlook  
