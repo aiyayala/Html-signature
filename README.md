@@ -10,5 +10,6 @@ Save..
 Test..   
   
 Note: Images won't automatically download to outlook  
-Play around with the html if you want something fancy.   
+  
+Play around with the css if you want something fancy.   
 Fancy:  https://aiyayala.github.io/html-gmail-signature/sig-style2.html  
