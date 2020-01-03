@@ -9,7 +9,7 @@ Ctrl + V  to paste your signature into the text box
 Save..
 Test..   
   
-Note: Images won't automatically download to outlook  
+Note: It is a pity that images won't automatically download to outlook  
   
 Play around with the css if you want something fancy.   
 Fancy:  https://aiyayala.github.io/html-gmail-signature/sig-style2.html  
